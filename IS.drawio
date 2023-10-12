@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T15:02:03.327Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="kcyeNpwoLb6rIJJ0ZO56" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-12T15:10:28.862Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15" etag="9VyQBcB-kKDoX8TI-X30" version="22.0.0" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
-    <mxGraphModel dx="2347" dy="1152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1268" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -213,6 +213,21 @@
         </mxCell>
         <mxCell id="7a84cebc1def654-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;" parent="1" source="7a84cebc1def654-20" target="7a84cebc1def654-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1kTLuPwmXLWoTiWLXEJ-2" value="Sheldon College" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="1510" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="F1kTLuPwmXLWoTiWLXEJ-3" value="Admin Staff" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="F1kTLuPwmXLWoTiWLXEJ-2">
+          <mxGeometry x="20" width="1490" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="F1kTLuPwmXLWoTiWLXEJ-4" value="Teachers" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="F1kTLuPwmXLWoTiWLXEJ-2">
+          <mxGeometry x="20" y="260" width="1490" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="F1kTLuPwmXLWoTiWLXEJ-5" value="Couch" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="F1kTLuPwmXLWoTiWLXEJ-2">
+          <mxGeometry x="20" y="520" width="1490" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="F1kTLuPwmXLWoTiWLXEJ-6" value="Student" style="swimlane;startSize=20;horizontal=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="230" width="1290" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
